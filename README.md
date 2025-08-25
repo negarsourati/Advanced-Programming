@@ -1,0 +1,1 @@
+This project is a messenger application built using socket programming with a client–server architecture. It also includes a custom query handling system, designed from scratch, to manage user data, groups, and chat history in a simplified database-like environment.
